@@ -20,3 +20,5 @@
 <p>&nbsp;</p>
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abidstic&show_icons=true&theme=dark&locale=en" alt="abidstic" /></p>
 
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abidstic&" alt="abidstic" /></p>
+
