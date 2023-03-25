@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js,Next.js, Typescript and Data Science**
 
-- 📫 How to reach me **mahinabid211200@gmail.com**
-
 - ⚡ Fun fact **The tibetian name for Mount everest is "Chomolungma"**
 
 <h3 align="left">Connect with me:</h3>
