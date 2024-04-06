@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abid Al Mahmud</h1>
 <h3 align="center">An enthusiastic tech savvy , hard worker and a quick learner</h3>
 
-- 🔭 I’m currently working on [CaneShop](https://github.com/Abidstic/CaneShop)
+- 🔭 I’m currently working on [BuzzQuizz]
 
-- 🌱 I’m currently learning **React.js,Next.js, Typescript and Data Science**
+- 🌱 I’m currently learning **Machiene learning, LLM models and Data Science**
 
 - ⚡ Fun fact **The tibetian name for Mount everest is "Chomolungma"**
 
