@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abid Al Mahmud</h1>
-<h3 align="center">An enthusiastic tech savvy , hard worker and a quick learner</h3>
+<h3 align="center">An enthusiastic tech-savvy , hard worker and a quick learner</h3>
 
-- 🔭 I’m currently working on [BuzzQuizz]
+- 🔭 I’m currently working on BuzzQuizz
 
-- 🌱 I’m currently learning **Machiene learning, LLM models and Data Science**
+- 🌱 I’m currently learning **Machine learning, LLM models and Data Science**
 
-- ⚡ Fun fact **The tibetian name for Mount everest is "Chomolungma"**
+- ⚡ Fun fact **The Tibetian name for Mount Everest is "Chomolungma"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
