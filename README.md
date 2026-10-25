@@ -1,22 +1,125 @@
-<h1 align="center">Hi 👋, I'm Abid Al Mahmud</h1>
-<h3 align="center">An enthusiastic tech-savvy , hard worker and a quick learner</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:282c34,100:61afef&height=180&section=header&text=Abid%20Al%20Mahmud&fontSize=36&fontColor=abb2bf&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Tinkerer%20%E2%99%90&descSize=16&descColor=98c379&descAlignY=55" alt="header" />
 
-- 🔭 I’m currently working on BuzzQuizz
+<div align="center">
 
-- 🌱 I’m currently learning **Machine learning, LLM models and Data Science**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=linkedin&logoColor=61afef)](https://www.linkedin.com/in/abid-al-mahmud/)
+[![GitHub](https://img.shields.io/badge/-GitHub-282c34?style=for-the-badge&logo=github&logoColor=abb2bf)](https://github.com/abidstic)
 
-- ⚡ Fun fact **The Tibetian name for Mount Everest is "Chomolungma"**
+Curious mind, restless builder — fueled by ideas, obsessed with getting every detail right.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abidstic&show_icons=true&locale=en&layout=compact" alt="abidstic" /></p>
-<p>&nbsp;</p>
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abidstic&show_icons=true&theme=dark&locale=en" alt="abidstic" /></p>
+#### About me
 
-<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abidstic&" alt="abidstic" /></p>
+- Full-stack engineer who builds end to end — UI to infrastructure
+- Exploring LLMs, RAG pipelines, and applied ML for thesis research
+- Ships across work, research, and side projects with equal intensity
 
+---
+
+#### Tech stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-282c34?style=flat-square&logo=typescript&logoColor=61afef)
+![JavaScript](https://img.shields.io/badge/JavaScript-282c34?style=flat-square&logo=javascript&logoColor=e5c07b)
+![Python](https://img.shields.io/badge/Python-282c34?style=flat-square&logo=python&logoColor=61afef)
+![Java](https://img.shields.io/badge/Java-282c34?style=flat-square&logo=openjdk&logoColor=e06c75)
+![C++](https://img.shields.io/badge/C++-282c34?style=flat-square&logo=cplusplus&logoColor=61afef)
+![C#](https://img.shields.io/badge/C%23-282c34?style=flat-square&logo=csharp&logoColor=c678dd)
+![Dart](https://img.shields.io/badge/Dart-282c34?style=flat-square&logo=dart&logoColor=61afef)
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-282c34?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-282c34?style=flat-square&logo=nextdotjs&logoColor=abb2bf)
+![Angular](https://img.shields.io/badge/Angular-282c34?style=flat-square&logo=angular&logoColor=e06c75)
+![Tailwind](https://img.shields.io/badge/Tailwind-282c34?style=flat-square&logo=tailwindcss&logoColor=56b6c2)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-282c34?style=flat-square&logo=nodedotjs&logoColor=98c379)
+![Express](https://img.shields.io/badge/Express-282c34?style=flat-square&logo=express&logoColor=abb2bf)
+![FastAPI](https://img.shields.io/badge/FastAPI-282c34?style=flat-square&logo=fastapi&logoColor=98c379)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-282c34?style=flat-square&logo=flutter&logoColor=61afef)
+![Android](https://img.shields.io/badge/Android-282c34?style=flat-square&logo=android&logoColor=98c379)
+
+</td>
+<td valign="top" width="33%">
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-282c34?style=flat-square&logo=tensorflow&logoColor=e5c07b)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-282c34?style=flat-square&logo=huggingface&logoColor=e5c07b)
+![LangChain](https://img.shields.io/badge/LangChain-282c34?style=flat-square&logo=langchain&logoColor=98c379)
+
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282c34?style=flat-square&logo=postgresql&logoColor=61afef)
+![MongoDB](https://img.shields.io/badge/MongoDB-282c34?style=flat-square&logo=mongodb&logoColor=98c379)
+![Redis](https://img.shields.io/badge/Redis-282c34?style=flat-square&logo=redis&logoColor=e06c75)
+![Firebase](https://img.shields.io/badge/Firebase-282c34?style=flat-square&logo=firebase&logoColor=e5c07b)
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-282c34?style=flat-square&logo=docker&logoColor=61afef)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-282c34?style=flat-square&logo=kubernetes&logoColor=61afef)
+![GCP](https://img.shields.io/badge/GCP-282c34?style=flat-square&logo=googlecloud&logoColor=61afef)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-282c34?style=flat-square&logo=githubactions&logoColor=61afef)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### GitHub stats
+
+<div align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidstic&layout=compact&theme=onedark&hide_border=true&bg_color=282c34&langs_count=8" alt="Top Languages" />
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abidstic&show_icons=true&theme=onedark&hide_border=true&bg_color=282c34&count_private=true" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img width="100%" src="https://streak-stats.demolab.com?user=abidstic&theme=onedark&hide_border=true&background=282c34" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=abidstic&style=flat-square&color=61afef&label=profile+views" alt="Profile views" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:282c34,100:61afef&height=150&section=footer" alt="footer" />
